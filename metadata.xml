@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iPOJO>
+    <instance component="de.berlios.vch.search.SearchService" name="vch.search.service" />
+</iPOJO>
