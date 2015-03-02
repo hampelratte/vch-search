@@ -13,6 +13,12 @@
         <relativePath>../vch-parent/pom.xml</relativePath>
     </parent>
 
+    <scm>
+        <connection>scm:git:git@github.com/hampelratte/vch-search.git</connection>
+        <developerConnection>scm:git:git@github.com:hampelratte/vch-search.git</developerConnection>
+        <url>https://github.com/hampelratte/vch-search.git</url>
+    </scm>
+
     <dependencies>
         <dependency>
         	<groupId>de.berlios.vch</groupId>
